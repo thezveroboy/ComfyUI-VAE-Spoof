@@ -1,0 +1,10 @@
+[project]
+name = "ComfyUI-VAE-Spoof"
+version = "0.1.0"
+description = "VAE Spoof Loader: декодирование латентов Krea2 декодером Qwen-Image/Wan 2.1 (авто-ремап ключей Diffusers->ComfyUI)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+
+[tool.comfyui]
+nodes = "nodes.py"

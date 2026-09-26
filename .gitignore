@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tools/
+opencode.bat
+AGENTS.md
+GOALS.md
